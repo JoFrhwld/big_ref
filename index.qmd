@@ -2,4 +2,4 @@
 title: "big_ref"
 ---
 
-[submodule with reference](content/small_ref/index.qmd)
+[page with reference](small_ref/index.qmd)
