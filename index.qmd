@@ -2,10 +2,4 @@
 title: "big_ref"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+[submodule with reference](small_ref/index.qmd)

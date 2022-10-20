@@ -1,0 +1,3 @@
+[submodule "small_ref"]
+	path = small_ref
+	url = https://github.com/JoFrhwld/small_ref.git
